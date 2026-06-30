@@ -1,5 +1,5 @@
 # Non-repudiation
-Non-repudiation is the act of ensuring a person cannot deny that they performed a specific action such as sending a message, approving a transaction, or siging a document. This can be done using cryptography (proof of intergrity or proof of origin with high assurance of authenticity).
+Non-repudiation is the act of ensuring a person cannot deny that they performed a specific action such as sending a message, approving a transaction, or siging a document. This can be done using cryptography (proof of intergrity or proof of origin). This enusres high assurance of authenticity).
 
 # Why does it matter?
 1. With non-repudiation, data or messages can be eaisly verified.
